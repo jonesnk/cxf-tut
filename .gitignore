@@ -2,6 +2,8 @@
 .gitignore
 .idea/
 cxf-tut.iml
-pom.xml
+#pom.xml
 src/
+#target/
+pom.xml
 target/
