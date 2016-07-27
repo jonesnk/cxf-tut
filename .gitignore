@@ -1,9 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-.gitignore
-.idea/
-cxf-tut.iml
-#pom.xml
-src/
-#target/
-pom.xml
-target/
